@@ -15,3 +15,11 @@ Since you're here, you might be:
 - Melany Wise( Melany is an upcoming junior and she plays for her volleyball team at her school. She's expected by her teammates and coaches to take on a leadership role and overall a better player. She's about 5'9 and 155 lbs.
 
 -  [ ] Melany is looking for accessories to make her look fashionable and protect her such as knee pads, elbow pads, and headbands
+
+## Design
+My message for the website is for athletes to have an easier time finding any proper safety wear and accessories that they need. I will use visual hierarchy by presenting the best-rated products, and most demanded products, utilizing color strategically, and using whitespace. Using whitespace would help create separation to help focus on important elements that I'm trying to advertise better for athletes scrolling through.
+
+
+
+## Accessbility 
+My website would be accessible to different users by me providing a chat agent that can help speak to someone that might have trouble reading due to dyslexia, a sign language interpreter, voice speech, and a 3d shoe model to help people have a view of how their shoes would look on them.
