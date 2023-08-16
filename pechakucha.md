@@ -1,2 +1,5 @@
 # Kanz Giwa 
-![beautiful nature](_static/img/Sunshine.jpeg)
+<div id="slideshow">![beautiful nature](_static/img/Sunshine.jpeg)
+:::{include} _static/buttons.html
+:::{include} _static/buttons.html
+<div>
